@@ -41,4 +41,3 @@ sum=$(( w_dec + s_dec ))
 
 # Encode to bestchol
 encode "$sum" "bestchol"
-
